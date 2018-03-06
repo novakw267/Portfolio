@@ -103,6 +103,10 @@ ul {
   margin: 10px;
 }
 
+.link-text {
+  font-size: 1.4em;
+}
+
 .proj-desc {
   background-color: #aabbbb;
 }
@@ -118,7 +122,7 @@ ul {
 }
 
 p {
-  font-size: 1.8em;
+  font-size: 1.1em;
 }
 
 h1 {
