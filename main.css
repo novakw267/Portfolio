@@ -139,7 +139,7 @@ h3 {
 
 @media screen and (max-width: 568px) {
   p {
-    font-size: 1.2em;
+    font-size: .75em;
   }
   h1 {
     font-size: 4em;
